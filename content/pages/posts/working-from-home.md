@@ -1,6 +1,6 @@
 ---
 title: ¿Estas listo para comprar tú primera propiedad?
-excerpt: Es una emocion indescriptible tener tu propio hogar.
+excerpt: Es una emocion indescriptible tener tu propio hogar
 date: '2019-03-30'
 thumb_img_path: /images/nicolas san juan comedor.jpg
 thumb_img_alt: A white modern house
