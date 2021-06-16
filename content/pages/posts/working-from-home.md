@@ -37,25 +37,29 @@ subtitle: Realiza un presupuesto conociendo los gastos.
 ---
 # Gastos del credito:
 
-Al solicitar un crédito bancario pagaras:
+1.  Al solicitar un crédito bancario pagaras:
 
-*   Comisión por apertura
+*   Comisión por apertura Un2% sobre el valor del crédito, se puede diferir.
 
-*   Avaluo
+*   Avalúo Realizado por una Unidad de valuación por parte del banco, 
 
-Los bancos tienen promociones en tiempos específicos como el Buen Fin en los que pueden ser "gratis"
+*   Los bancos tienen promociones en tiempos específicos como el Buen Fin en los que pueden ser "gratis"
 
-En el caso del credito Infonavit
+2\. En el caso Infonavit descontaran de tu crédito:
 
-de la compraventa
+*   Manejo del credito
 
-Pagar un enganche  entre el 5 y 10 % del valor de la propiedad,  es importante  firmar un contrato de compraventa y tener un crédito aprobado
+*   Ecotecnologias 
 
-Pagar gastos notariales por un monto entre un 5 y 10 % Los gastos notariales están compuestos por:
+# Gastos de la compraventa.
 
-*   Honorarios notariales ( hay un tabulador de gastos fijos que se publica en el Diario de la Nación), 
+1.  Considera un enganche  entre el 5 y 10 % del valor de la propiedad, el banco presta el 90% sobre el valor del avaluo es importante  firmar un contrato de compraventa  y tener un crédito aprobado
 
-*   Gastos Notariales (estos  son las certificaciones de  predial y catastro, agua, certificado de libertad de gravamen, , son variables) 
+2\. Pagar gastos notariales por un monto entre un 5 y 10 % Los gastos notariales están compuestos por:
+
+*   Honorarios notariales ( hay un tabulador de gastos fijos que se publica en el Diario de la Nación),
+
+*   Gastos Notariales (estos  son las certificaciones de  predial y catastro, agua, certificado de libertad de gravamen, , son variables)
 
 *   Impuestos sobre adquisición de Inmuebles
 
@@ -67,18 +71,13 @@ Recomendamos pedir una cotización por escrito.  Tú Asesor Inmobiliario puede c
 
 Tendrás que contratar servicios de Internet, telefonía, o cambiar el servicio de tú domicilio actual.
 
-Decoración a tu gusto: Persianas, Cortinas, Pintura, Lamparas. 
+Decoración a tu gusto: Persianas, Cortinas, Pintura, Lamparas. Liverpool y La casa de las Lomas tiene un servicio de decoracion y diseño de Interiores "gratuito" si compras sus producto.
 
-# Mudanza
+# Mudanza:
 
+1.  Puedes pedirle a tu amigos que te ayuden a mudarte
 
+2.  El servicio basico incluye llevar los muebles de un domicilio a otro, el precio depende de la cantidad, la distancia, y costo adicional por cada nivel en caso de ser edificio,  tú tienes que empacar y desempacar
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+3.  Mudanza Premium: Un dia empacan todo, desarman y arman tus muebles, trasportan a tu nuevo hogar y desempacan e instalan todo.
 
-## Listo para Mudarte
-
-Cambiarte de casa requiere gastos adicionales:
-
-Mudanza:  Las mudanzas transportan tu muebles y hay 3 diferntes tipos:
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis donec et odio  iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. I
