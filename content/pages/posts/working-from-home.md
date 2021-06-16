@@ -42,9 +42,9 @@ subtitle: Realiza un presupuesto conociendo los gastos.
 
 1.  Al solicitar un crédito bancario pagaras:
 
-*   Comisión por apertura Un2% sobre el valor del crédito, se puede diferir.
+*   Comisión por apertura el 2% sobre el valor del crédito, se puede diferir.
 
-*   Avalúo Realizado por una Unidad de valuación por parte del banco, 
+*   Avalúo Realizado por una Unidad de valuación por parte del banco,
 
 *   Los bancos tienen promociones en tiempos específicos como el Buen Fin en los que pueden ser "gratis"
 
@@ -80,7 +80,8 @@ Decoración a tu gusto: Persianas, Cortinas, Pintura, Lamparas. Liverpool y La c
 
 1.  Puedes pedirle a tu amigos que te ayuden a mudarte
 
-2.  El servicio basico incluye llevar los muebles de un domicilio a otro, el precio depende de la cantidad, la distancia, y costo adicional por cada nivel en caso de ser edificio,  tú tienes que empacar y desempacar
+2.  El servicio básico incluye llevar los muebles de un domicilio a otro, el precio depende de la cantidad, la distancia, y costo adicional por cada nivel en caso de ser edificio cuando no permiten subir los muebles al elevador,  tú tienes que empacar y desempacar
 
-3.  Mudanza Premium: Un dia empacan todo, desarman y arman tus muebles, trasportan a tu nuevo hogar y desempacan e instalan todo.
+3.  Mudanza Premium: Un día empacan todo, desarman tus muebles, trasportan a tu nuevo hogar y desempacan e instalan todo, cuenta con seguro de daños.
 
+Para mudarte a un condominio se requiere un deposito entre 2 a 5 mil pesos el cual se reembolsa si  la mudanza no genero ningún daño, revisa el reglamento porque puede haber multas por subir muebles por el elevador.
