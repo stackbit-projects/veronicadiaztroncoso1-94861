@@ -15,7 +15,7 @@ intro_content: |+
   *   Ser un PRO en tú Portafolio de Bienes Raices
 
 intro_actions:
-  - label: SUSCRIBETE
+  - label: QUIERO APRENDER MAS
     url: /about
     style: primary
   - label: Contact
