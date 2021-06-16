@@ -1,10 +1,19 @@
 ---
 title: Home
 has_intro: true
-intro_content: |
-  Tú puedes:
+intro_content: |+
+  #  Tú puedes: Comprar la casa de tus sueños.
 
-  Comprar la casa de tus sueños.
+  Suscríbete para:
+
+  *   Obtener el mejor crédito hipotecario.
+
+  *   Comprar al mejor precio propiedades.
+
+  *   Rentar al mejor inquilino de forma segura
+
+  *   Ser un PRO en tú Portafolio de Bienes Raices
+
 intro_actions:
   - label: Learn More
     url: /about
