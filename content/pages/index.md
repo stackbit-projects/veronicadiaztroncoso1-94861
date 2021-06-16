@@ -1,19 +1,30 @@
 ---
 title: Home
 has_intro: true
-intro_content: |+
-  #  Tú puedes: Comprar la casa de tus sueños.
+intro_content: >
+  # Tú puedes: Comprar la casa de tus sueños. ¡¿En Serio?¡
+
 
   Suscríbete para:
 
-  *   Obtener el mejor crédito hipotecario.
 
-  *   Comprar al mejor precio propiedades.
+  *   **Obtener el mejor crédito hipotecario** y evitar pagar mas del doble, y
+  con una mensualidad altisima.
 
-  *   Rentar al mejor inquilino de forma segura
 
-  *   Ser un PRO en tú Portafolio de Bienes Raices
+  *   **Comprar al mejor precio propiedades** ó evitar fraudes ó que tu amigo te
+  traspase su crédito y luego no puedas escriturar
 
+
+  *   **Rentar al mejor inquilino de forma segura, **Porque rentar puede ser una
+  pesadilla y puedes encontrar un estafador  que pida tu ayuda y termine
+  viviendo en tu casa sin pagar.
+
+
+  *   **Ser un PRO en tú Portafolio de Bienes Raices **No vivimos en USA y no
+  podrás comprar 4 propiedades con tasa de interés del 4% y que se paguen con la
+  renta de tus inquilinos, pero podemos encontrar propiedades en zonas con alta
+  demanda.
 intro_actions:
   - label: QUIERO APRENDER MAS
     url: /about
