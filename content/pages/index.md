@@ -2,21 +2,21 @@
 title: Home
 has_intro: true
 intro_content: >
-  # Tú puedes: Comprar la casa de tus sueños. ¡¿En Serio?¡
+  # Tú puedes: Comprar la casa de tus sueños. !¿En Serio?¡
 
 
   Suscríbete para:
 
 
   *   **Obtener el mejor crédito hipotecario** y evitar pagar mas del doble, y
-  con una mensualidad altisima.
+  con una mensualidad altísima, por tus siguientes 20 años.
 
 
   *   **Comprar al mejor precio propiedades** ó evitar fraudes ó que tu amigo te
   traspase su crédito y luego no puedas escriturar
 
 
-  *   **Rentar al mejor inquilino de forma segura, **Porque rentar puede ser una
+  *   **Rentar al mejor inquilino de forma segura**. Porque rentar puede ser una
   pesadilla y puedes encontrar un estafador  que pida tu ayuda y termine
   viviendo en tu casa sin pagar.
 
