@@ -1,6 +1,6 @@
 ---
 title: ¿Qué crédito hipotecario es el mejor para mi?
-excerpt: En Mxico
+excerpt: El credito Hipotecario p
 date: '2019-04-09'
 thumb_img_path: /images/OSF.9814 - Verónica Díaz - Villa Romana II-18.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking river
