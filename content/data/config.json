@@ -72,7 +72,7 @@
             }
         ],
         "has_subscribe": true,
-        "subscribe_title": "Suscribeme al blog",
+        "subscribe_title": "Suscríbeme al blog",
         "subscribe_content": "Subscribe to my email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month.",
         "subscribe_action": "/subscribe-success"
     },
