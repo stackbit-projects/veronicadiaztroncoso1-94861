@@ -2,14 +2,14 @@
 title: Home
 has_intro: true
 intro_content: >
-  # Tú puedes: Comprar la casa de tus sueños. !¿En Serio?¡
-
-
-  Suscríbete para:
+  # Comprar la casa de tus sueños.
 
 
   *   **Obtener el mejor crédito hipotecario** y evitar pagar mas del doble, y
   con una mensualidad altísima, por tus siguientes 20 años.
+
+
+  <!---->
 
 
   *   **Comprar al mejor precio propiedades** ó evitar fraudes ó que tu amigo te
