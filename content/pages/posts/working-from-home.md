@@ -3,7 +3,7 @@ title: ¿Estas listo para comprar tú primera propiedad?
 excerpt: >-
   Al comprar pagaras comisiones del crédito, gastos notariales, Impuestos,
   adecuaciones, mudanza, Conoce cuales son para que puedas hacer tu presupuesto
-  y disfrutar sin preocupacion.
+  y disfrutar tú nuevo hogar.
 date: '2021-06-15'
 thumb_img_path: /images/nicolas san juan comedor.jpg
 thumb_img_alt: A white modern house
