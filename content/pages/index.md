@@ -1,16 +1,10 @@
 ---
 title: Home
 has_intro: true
-intro_content: >
-  *   Nuestra pasión es el servicio en Bienes Raices, para que puedas encontrar
-  la casa de tus sueños. 
+intro_content: |
+  Tú puedes:
 
-
-  *   Comprar tu primera casa de forma fácil y segura, puede ser muy
-  gratificante. 
-
-
-  *   Aprende a crecer tu patrimonio rentando propiedades
+  Comprar la casa de tus sueños.
 intro_actions:
   - label: Learn More
     url: /about
