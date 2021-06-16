@@ -21,7 +21,7 @@ intro_content: >
   viviendo en tu casa sin pagar.
 
 
-  *   **Ser un PRO en tú Portafolio de Bienes Raices **No vivimos en USA y no
+  *   **Ser un PRO en tú Portafolio de Bienes Raices** No vivimos en USA y no
   podrás comprar 4 propiedades con tasa de interés del 4% y que se paguen con la
   renta de tus inquilinos, pero podemos encontrar propiedades en zonas con alta
   demanda.
