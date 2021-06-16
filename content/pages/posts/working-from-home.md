@@ -1,10 +1,6 @@
 ---
 title: ¿Estas listo para comprar tú primera propiedad?
-excerpt: >-
-  Es una emocion indescriptible tener tu propio hogarWork at home parent is an
-  entrepreneur who works from home and integrates parenting into his or her
-  business activities. They are sometimes referred to as a WAHM (work at home
-  mom) or a WAHD (work at home dad).
+excerpt: Es una emocion indescriptible tener tu propio hogar.
 date: '2019-03-30'
 thumb_img_path: /images/nicolas san juan comedor.jpg
 thumb_img_alt: A white modern house
