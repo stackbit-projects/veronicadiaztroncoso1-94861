@@ -1,7 +1,7 @@
 ---
 title: ¿Estas listo para comprar tú primera propiedad?
 excerpt: "Es una emoción indescriptible tener tu propio hogar, comprar una propiedad requiere: Pagar un enganche\_ entre el 5 y 10 % del valor de la propiedad, Pagar gastos notariales por un monto entre un 5 y 10 % Los gastos notarias son: Honorarios notariales ( hay un tabulador de gastos fijos que se publica en el Diario de la Nacion), Gastos Notariales (estos\_ son las certificaciones de\_ predial y catastro, agua, certificado de libertad de gravamen, , son variables) Recomendamos pedir una cotizacion por escrito. Impuestos por comprar una propiedad. Gastos de registro cada estado de la republica Mexicana cuenta con el Registro Público de la Propiedad donde se \"inscribe\" tu propiedad"
-date: '2019-03-30'
+date: '0002-03-30'
 thumb_img_path: /images/nicolas san juan comedor.jpg
 thumb_img_alt: A white modern house
 content_img_path: images/9.jpg
